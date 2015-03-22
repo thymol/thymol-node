@@ -1,6 +1,6 @@
 {
   "name": "thymol-node",
-  "version": "2.0.0-beta3",
+  "version": "2.0.0-SNAPSHOT",
   "description": "thymol thymeleaf template engine for nodejs",
   "main": "thymol-node.js",
   "dependencies": {
@@ -16,6 +16,7 @@
   "keywords": [
     "thymol",
     "thymoljs",
+    "express",
     "thymeleaf",
     "template-engine"
   ],
